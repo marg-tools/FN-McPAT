@@ -6,7 +6,7 @@ FN-CACTI
 ----------------------------------------------------------------------------------
 1. Download FN-CACTI repository from https://github.com/marg-tools/FN-CACTI/
 2. Seperate repositories for FN-CACTI and FN-McPAT are maintained for ease of code maintenance
-3. Follow the instructions provided in README.md for buulding FN-CACTI
+3. Follow the instructions provided in README.md for building FN-CACTI
 4. fncacti folder will be created after the instructions are carefully followed
 ----------------------------------------------------------------------------------
 
