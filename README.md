@@ -27,5 +27,5 @@ cd fnmcpat
 1. To build executable
 	 make clean
 	 make
-2. To execute
+2. To execute 
      ./mcpat -infile ProcessorDescriptionFiles/<xxx>.xml
