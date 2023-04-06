@@ -1,0 +1,125 @@
+McPAT (version 1.0 of Aug, 2013) is computing the target processor...
+ 
+
+McPAT (version 1.0 of Aug, 2013) results (current print level is 2, please increase print level to see the details in components): 
+*****************************************************************************************
+  Technology 14 nm
+  Interconnect metal projection= aggressive interconnect technology projection
+  Core clock Rate(MHz) 1560
+
+*****************************************************************************************
+Processor: 
+  Area = 2.1299 mm^2
+  Peak Power = 0.205285 W
+  Total Leakage = 0.00524775 W
+  Peak Dynamic = 0.200037 W
+  Subthreshold Leakage = 0.00524775 W
+  Gate Leakage = 0 W
+  Runtime Dynamic = 0.0495866 W
+
+  Total Cores: 1 cores 
+  Device Type= ITRS high performance device type
+    Area = 1.07834 mm^2
+    Peak Dynamic = 0.194931 W
+    Subthreshold Leakage = 0.00348547 W
+    Gate Leakage = 0 W
+    Runtime Dynamic = 0.045067 W
+
+  Total L2s: 
+  Device Type= ITRS high performance device type
+    Area = 1.03543 mm^2
+    Peak Dynamic = 0.00510614 W
+    Subthreshold Leakage = 0.00159635 W
+    Gate Leakage = 0 W
+    Runtime Dynamic = 0.00451959 W
+
+  Total NoCs (Network/Bus): 
+  Device Type= ITRS high performance device type
+    Area = 0.0161307 mm^2
+    Peak Dynamic = 0 W
+    Subthreshold Leakage = 0.000165928 W
+    Gate Leakage = 0 W
+    Runtime Dynamic = 0 W
+
+*****************************************************************************************
+Core:
+      Area = 1.07834 mm^2
+        dynamic energy per access =  xx pJ
+      Peak Dynamic = 0.194931 W
+      Subthreshold Leakage = 0.00348547 W
+      Gate Leakage = 0 W
+      Runtime Dynamic = 0.045067 W
+
+      Instruction Fetch Unit:
+        Area = 0.376477 mm^2
+        dynamic energy per access =  xx pJ
+        Peak Dynamic = 0.0453389 W
+        Subthreshold Leakage = 0.0015611 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0.00308069 W
+
+      Renaming Unit:
+        Area = 0.0204619 mm^2
+        dynamic energy per access =  xx pJ
+        Peak Dynamic = 0.0507097 W
+        Subthreshold Leakage = 9.27307e-05 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0.00551372 W
+
+      Load Store Unit:
+        Area = 0.3768 mm^2
+        dynamic energy per access =  xx pJ
+        Peak Dynamic = 0.0133139 W
+        Subthreshold Leakage = 0.000509042 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0.00827894 W
+
+      Memory Management Unit:
+        Area = 0.0141235 mm^2
+        dynamic energy per access =  xx pJ
+        Peak Dynamic = 0.00864219 W
+        Subthreshold Leakage = 0.000113674 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0.00218109 W
+
+      Execution Unit:
+        Area = 0.290477 mm^2
+        dynamic energy per access =  xx pJ
+        Peak Dynamic = 0.0769261 W
+        Subthreshold Leakage = 0.00120892 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0.0260126 W
+
+      undiffCore Unit:
+        Area = 0 mm^2
+        dynamic energy per access =  xx pJ
+        Peak Dynamic = 0 W
+        Subthreshold Leakage = 0 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0 W
+
+*****************************************************************************************
+L2
+      Area = 1.03543 mm^2
+        dynamic energy per access = 56.4812 pJ
+      Peak Dynamic = 0.00510614 W
+      Subthreshold Leakage = 0.00159635 W
+      Gate Leakage = 0 W
+      Runtime Dynamic = 0.00451959 W
+
+*****************************************************************************************
+BUSES
+      Area = 0.0161307 mm^2
+      Peak Dynamic = 0 W
+      Subthreshold Leakage = 0.000165928 W
+      Gate Leakage = 0 W
+      Runtime Dynamic = 0 W
+
+      Bus: 
+        Area = 0.0161307 mm^2
+        Peak Dynamic = 0 W
+        Subthreshold Leakage = 0.000165928 W
+        Gate Leakage = 0 W
+        Runtime Dynamic = 0 W
+
+*****************************************************************************************
