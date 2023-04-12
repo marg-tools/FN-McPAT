@@ -31,4 +31,4 @@ cd fnmcpat
 	 make
 	 
 2. To execute 
-     ./mcpat -infile ProcessorDescriptionFiles/<xxx>.xml
+     ./mcpat -infile ProcessorDescriptionFiles/<config_filename>.xml
